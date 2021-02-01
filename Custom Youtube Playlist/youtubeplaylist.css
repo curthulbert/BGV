@@ -1,0 +1,12 @@
+/* CSS Document */
+body {font-family:Arial, Helvetica, sans-serif;}
+p {font-family:Arial, Helvetica, sans-serif;}
+ul {float: left; margin: 0; padding: 0; width: 325px;}
+ul li {list-style-type: none; display:block; background: #f1f1f1; float: left; width: 300px; margin-bottom: 5px; padding:2px; font-family:Arial, Helvetica, sans-serif;}
+ul li img {width: 60px; float: left; margin-right: 5px; border: 1px solid #999;}
+ul li img.smaller {width: 50px; float: left; margin-right: 5px; border: 1px solid #999;}
+ul li a {font-family: Arial, Helvetica, sans-serif; text-decoration: none; display: block; color: #000;}
+.youtubeholder {background: #f3f3f3; padding: 10px; float: left; border: 1px solid #e3e3e3; margin-bottom:15px;}
+.scroller {height:200px; width:350px; font:10px/14px Arial, Helvetica, sans-serif; overflow:scroll;}
+.currentvideo {background: #e6e6e6;}
+
